@@ -1,0 +1,1368 @@
+﻿  Assembling Content\Assembly\xmm.asm...
+  Assembling Content\Assembly\ymm.asm...
+  Assembling Content\Assembly\zmm.asm...
+  pch.cpp
+  Alignment.cpp
+  InstructionSet.cpp
+  正在生成代码...
+  dllmain.cpp
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “Alignment::Array<bool>::Array(Alignment::Array<bool> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<bool>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “Alignment::Array<bool>::Array(const Alignment::Array<bool> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<bool>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “Alignment::Array<bool>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<bool>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “Alignment::Array<bool>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<bool>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “Alignment::Array<bool>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<bool>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:             T=bool
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<bool>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “Alignment::Array<bool> &Alignment::Array<bool>::operator =(Alignment::Array<bool> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<bool>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “Alignment::Array<bool> &Alignment::Array<bool>::operator =(const Alignment::Array<bool> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<bool>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “bool Alignment::Array<bool>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<bool>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “bool Alignment::Array<bool>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<bool>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “bool Alignment::Array<bool>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<bool>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “bool Alignment::Array<bool>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:             T=bool
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<bool>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “bool Alignment::Array<bool>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:             T=bool
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<bool>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “bool Alignment::Array<bool>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<bool>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “void Alignment::Array<bool>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<bool>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “void Alignment::Array<bool>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<bool>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(199,45): warning C4661: “void Alignment::Array<bool>::swap(Alignment::Array<bool> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<bool>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “Alignment::Array<char>::Array(Alignment::Array<char> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<char>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “Alignment::Array<char>::Array(const Alignment::Array<char> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<char>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “Alignment::Array<char>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<char>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “Alignment::Array<char>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<char>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “Alignment::Array<char>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<char>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:             T=char
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<char>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “Alignment::Array<char> &Alignment::Array<char>::operator =(Alignment::Array<char> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<char>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “Alignment::Array<char> &Alignment::Array<char>::operator =(const Alignment::Array<char> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<char>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “bool Alignment::Array<char>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<char>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “bool Alignment::Array<char>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<char>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “bool Alignment::Array<char>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<char>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “bool Alignment::Array<char>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:             T=char
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<char>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “bool Alignment::Array<char>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:             T=char
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<char>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “bool Alignment::Array<char>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<char>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “void Alignment::Array<char>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<char>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “void Alignment::Array<char>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<char>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(200,45): warning C4661: “void Alignment::Array<char>::swap(Alignment::Array<char> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<char>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “Alignment::Array<unsigned char>::Array(Alignment::Array<unsigned char> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<unsigned char>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “Alignment::Array<unsigned char>::Array(const Alignment::Array<unsigned char> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<unsigned char>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “Alignment::Array<unsigned char>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<unsigned char>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “Alignment::Array<unsigned char>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<unsigned char>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “Alignment::Array<unsigned char>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<unsigned char>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:             T=unsigned char
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<unsigned char>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “Alignment::Array<unsigned char> &Alignment::Array<unsigned char>::operator =(Alignment::Array<unsigned char> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<unsigned char>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “Alignment::Array<unsigned char> &Alignment::Array<unsigned char>::operator =(const Alignment::Array<unsigned char> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<unsigned char>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “bool Alignment::Array<unsigned char>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<unsigned char>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “bool Alignment::Array<unsigned char>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<unsigned char>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “bool Alignment::Array<unsigned char>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<unsigned char>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “bool Alignment::Array<unsigned char>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:             T=unsigned char
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<unsigned char>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “bool Alignment::Array<unsigned char>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:             T=unsigned char
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<unsigned char>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “bool Alignment::Array<unsigned char>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<unsigned char>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “void Alignment::Array<unsigned char>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<unsigned char>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “void Alignment::Array<unsigned char>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<unsigned char>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(201,54): warning C4661: “void Alignment::Array<unsigned char>::swap(Alignment::Array<unsigned char> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<unsigned char>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “Alignment::Array<int>::Array(Alignment::Array<int> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<int>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “Alignment::Array<int>::Array(const Alignment::Array<int> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<int>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “Alignment::Array<int>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<int>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “Alignment::Array<int>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<int>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “Alignment::Array<int>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<int>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:             T=int
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<int>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “Alignment::Array<int> &Alignment::Array<int>::operator =(Alignment::Array<int> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<int>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “Alignment::Array<int> &Alignment::Array<int>::operator =(const Alignment::Array<int> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<int>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “bool Alignment::Array<int>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<int>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “bool Alignment::Array<int>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<int>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “bool Alignment::Array<int>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<int>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “bool Alignment::Array<int>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:             T=int
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<int>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “bool Alignment::Array<int>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:             T=int
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<int>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “bool Alignment::Array<int>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<int>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “void Alignment::Array<int>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<int>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “void Alignment::Array<int>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<int>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(202,44): warning C4661: “void Alignment::Array<int>::swap(Alignment::Array<int> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<int>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “Alignment::Array<unsigned int>::Array(Alignment::Array<unsigned int> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<unsigned int>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “Alignment::Array<unsigned int>::Array(const Alignment::Array<unsigned int> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<unsigned int>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “Alignment::Array<unsigned int>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<unsigned int>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “Alignment::Array<unsigned int>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<unsigned int>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “Alignment::Array<unsigned int>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<unsigned int>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:             T=unsigned int
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<unsigned int>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “Alignment::Array<unsigned int> &Alignment::Array<unsigned int>::operator =(Alignment::Array<unsigned int> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<unsigned int>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “Alignment::Array<unsigned int> &Alignment::Array<unsigned int>::operator =(const Alignment::Array<unsigned int> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<unsigned int>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “bool Alignment::Array<unsigned int>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<unsigned int>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “bool Alignment::Array<unsigned int>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<unsigned int>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “bool Alignment::Array<unsigned int>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<unsigned int>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “bool Alignment::Array<unsigned int>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:             T=unsigned int
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<unsigned int>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “bool Alignment::Array<unsigned int>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:             T=unsigned int
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<unsigned int>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “bool Alignment::Array<unsigned int>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<unsigned int>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “void Alignment::Array<unsigned int>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<unsigned int>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “void Alignment::Array<unsigned int>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<unsigned int>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(203,53): warning C4661: “void Alignment::Array<unsigned int>::swap(Alignment::Array<unsigned int> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<unsigned int>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “Alignment::Array<short>::Array(Alignment::Array<short> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<short>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “Alignment::Array<short>::Array(const Alignment::Array<short> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<short>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “Alignment::Array<short>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<short>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “Alignment::Array<short>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<short>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “Alignment::Array<short>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<short>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:             T=short
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<short>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “Alignment::Array<short> &Alignment::Array<short>::operator =(Alignment::Array<short> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<short>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “Alignment::Array<short> &Alignment::Array<short>::operator =(const Alignment::Array<short> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<short>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “bool Alignment::Array<short>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<short>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “bool Alignment::Array<short>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<short>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “bool Alignment::Array<short>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<short>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “bool Alignment::Array<short>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:             T=short
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<short>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “bool Alignment::Array<short>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:             T=short
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<short>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “bool Alignment::Array<short>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<short>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “void Alignment::Array<short>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<short>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “void Alignment::Array<short>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<short>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(204,50): warning C4661: “void Alignment::Array<short>::swap(Alignment::Array<short> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<short>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “Alignment::Array<unsigned short>::Array(Alignment::Array<unsigned short> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<unsigned short>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “Alignment::Array<unsigned short>::Array(const Alignment::Array<unsigned short> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<unsigned short>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “Alignment::Array<unsigned short>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<unsigned short>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “Alignment::Array<unsigned short>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<unsigned short>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “Alignment::Array<unsigned short>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<unsigned short>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:             T=unsigned short
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<unsigned short>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “Alignment::Array<unsigned short> &Alignment::Array<unsigned short>::operator =(Alignment::Array<unsigned short> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<unsigned short>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “Alignment::Array<unsigned short> &Alignment::Array<unsigned short>::operator =(const Alignment::Array<unsigned short> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<unsigned short>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “bool Alignment::Array<unsigned short>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<unsigned short>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “bool Alignment::Array<unsigned short>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<unsigned short>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “bool Alignment::Array<unsigned short>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<unsigned short>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “bool Alignment::Array<unsigned short>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:             T=unsigned short
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<unsigned short>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “bool Alignment::Array<unsigned short>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:             T=unsigned short
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<unsigned short>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “bool Alignment::Array<unsigned short>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<unsigned short>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “void Alignment::Array<unsigned short>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<unsigned short>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “void Alignment::Array<unsigned short>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<unsigned short>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(205,59): warning C4661: “void Alignment::Array<unsigned short>::swap(Alignment::Array<unsigned short> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<unsigned short>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “Alignment::Array<long>::Array(Alignment::Array<long> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<long>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “Alignment::Array<long>::Array(const Alignment::Array<long> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<long>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “Alignment::Array<long>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<long>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “Alignment::Array<long>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<long>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “Alignment::Array<long>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<long>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:             T=long
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<long>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “Alignment::Array<long> &Alignment::Array<long>::operator =(Alignment::Array<long> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<long>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “Alignment::Array<long> &Alignment::Array<long>::operator =(const Alignment::Array<long> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<long>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “bool Alignment::Array<long>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<long>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “bool Alignment::Array<long>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<long>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “bool Alignment::Array<long>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<long>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “bool Alignment::Array<long>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:             T=long
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<long>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “bool Alignment::Array<long>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:             T=long
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<long>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “bool Alignment::Array<long>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<long>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “void Alignment::Array<long>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<long>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “void Alignment::Array<long>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<long>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(206,49): warning C4661: “void Alignment::Array<long>::swap(Alignment::Array<long> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<long>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “Alignment::Array<unsigned long>::Array(Alignment::Array<unsigned long> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<unsigned long>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “Alignment::Array<unsigned long>::Array(const Alignment::Array<unsigned long> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<unsigned long>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “Alignment::Array<unsigned long>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<unsigned long>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “Alignment::Array<unsigned long>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<unsigned long>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “Alignment::Array<unsigned long>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<unsigned long>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:             T=unsigned long
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<unsigned long>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “Alignment::Array<unsigned long> &Alignment::Array<unsigned long>::operator =(Alignment::Array<unsigned long> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<unsigned long>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “Alignment::Array<unsigned long> &Alignment::Array<unsigned long>::operator =(const Alignment::Array<unsigned long> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<unsigned long>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “bool Alignment::Array<unsigned long>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<unsigned long>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “bool Alignment::Array<unsigned long>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<unsigned long>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “bool Alignment::Array<unsigned long>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<unsigned long>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “bool Alignment::Array<unsigned long>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:             T=unsigned long
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<unsigned long>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “bool Alignment::Array<unsigned long>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:             T=unsigned long
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<unsigned long>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “bool Alignment::Array<unsigned long>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<unsigned long>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “void Alignment::Array<unsigned long>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<unsigned long>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “void Alignment::Array<unsigned long>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<unsigned long>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(207,58): warning C4661: “void Alignment::Array<unsigned long>::swap(Alignment::Array<unsigned long> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<unsigned long>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “Alignment::Array<__int64>::Array(Alignment::Array<__int64> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<__int64>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “Alignment::Array<__int64>::Array(const Alignment::Array<__int64> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<__int64>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “Alignment::Array<__int64>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<__int64>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “Alignment::Array<__int64>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<__int64>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “Alignment::Array<__int64>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<__int64>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:             T=__int64
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<__int64>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “Alignment::Array<__int64> &Alignment::Array<__int64>::operator =(Alignment::Array<__int64> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<__int64>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “Alignment::Array<__int64> &Alignment::Array<__int64>::operator =(const Alignment::Array<__int64> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<__int64>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “bool Alignment::Array<__int64>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<__int64>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “bool Alignment::Array<__int64>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<__int64>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “bool Alignment::Array<__int64>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<__int64>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “bool Alignment::Array<__int64>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:             T=__int64
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<__int64>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “bool Alignment::Array<__int64>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:             T=__int64
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<__int64>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “bool Alignment::Array<__int64>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<__int64>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “void Alignment::Array<__int64>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<__int64>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “void Alignment::Array<__int64>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<__int64>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(208,50): warning C4661: “void Alignment::Array<__int64>::swap(Alignment::Array<__int64> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<__int64>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “Alignment::Array<unsigned __int64>::Array(Alignment::Array<unsigned __int64> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<unsigned __int64>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “Alignment::Array<unsigned __int64>::Array(const Alignment::Array<unsigned __int64> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<unsigned __int64>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “Alignment::Array<unsigned __int64>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<unsigned __int64>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “Alignment::Array<unsigned __int64>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<unsigned __int64>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “Alignment::Array<unsigned __int64>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<unsigned __int64>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:             T=unsigned __int64
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<unsigned __int64>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “Alignment::Array<unsigned __int64> &Alignment::Array<unsigned __int64>::operator =(Alignment::Array<unsigned __int64> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<unsigned __int64>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “Alignment::Array<unsigned __int64> &Alignment::Array<unsigned __int64>::operator =(const Alignment::Array<unsigned __int64> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<unsigned __int64>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “bool Alignment::Array<unsigned __int64>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<unsigned __int64>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “bool Alignment::Array<unsigned __int64>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<unsigned __int64>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “bool Alignment::Array<unsigned __int64>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<unsigned __int64>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “bool Alignment::Array<unsigned __int64>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:             T=unsigned __int64
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<unsigned __int64>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “bool Alignment::Array<unsigned __int64>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:             T=unsigned __int64
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<unsigned __int64>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “bool Alignment::Array<unsigned __int64>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<unsigned __int64>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “void Alignment::Array<unsigned __int64>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<unsigned __int64>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “void Alignment::Array<unsigned __int64>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<unsigned __int64>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(209,59): warning C4661: “void Alignment::Array<unsigned __int64>::swap(Alignment::Array<unsigned __int64> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<unsigned __int64>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “Alignment::Array<float>::Array(Alignment::Array<float> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<float>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “Alignment::Array<float>::Array(const Alignment::Array<float> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<float>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “Alignment::Array<float>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<float>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “Alignment::Array<float>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<float>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “Alignment::Array<float>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<float>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:             T=float
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<float>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “Alignment::Array<float> &Alignment::Array<float>::operator =(Alignment::Array<float> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<float>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “Alignment::Array<float> &Alignment::Array<float>::operator =(const Alignment::Array<float> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<float>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “bool Alignment::Array<float>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<float>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “bool Alignment::Array<float>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<float>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “bool Alignment::Array<float>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<float>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “bool Alignment::Array<float>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:             T=float
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<float>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “bool Alignment::Array<float>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:             T=float
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<float>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “bool Alignment::Array<float>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<float>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “void Alignment::Array<float>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<float>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “void Alignment::Array<float>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<float>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(210,46): warning C4661: “void Alignment::Array<float>::swap(Alignment::Array<float> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<float>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “Alignment::Array<double>::Array(Alignment::Array<double> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<double>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “Alignment::Array<double>::Array(const Alignment::Array<double> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<double>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “Alignment::Array<double>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<double>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “Alignment::Array<double>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<double>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “Alignment::Array<double>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<double>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:             T=double
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<double>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “Alignment::Array<double> &Alignment::Array<double>::operator =(Alignment::Array<double> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<double>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “Alignment::Array<double> &Alignment::Array<double>::operator =(const Alignment::Array<double> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<double>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “bool Alignment::Array<double>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<double>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “bool Alignment::Array<double>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<double>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “bool Alignment::Array<double>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<double>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “bool Alignment::Array<double>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:             T=double
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<double>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “bool Alignment::Array<double>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:             T=double
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<double>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “bool Alignment::Array<double>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<double>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “void Alignment::Array<double>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<double>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “void Alignment::Array<double>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<double>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(211,47): warning C4661: “void Alignment::Array<double>::swap(Alignment::Array<double> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<double>::swap”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “Alignment::Array<long double>::Array(Alignment::Array<long double> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(95,9):
+  参见“Alignment::Array<long double>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “Alignment::Array<long double>::Array(const Alignment::Array<long double> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(94,9):
+  参见“Alignment::Array<long double>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “Alignment::Array<long double>::Array(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(89,9):
+  参见“Alignment::Array<long double>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “Alignment::Array<long double>::Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(82,9):
+  参见“Alignment::Array<long double>::Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “Alignment::Array<long double>::~Array(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(90,10):
+  参见“Alignment::Array<long double>::~Array”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “T &Alignment::Array<T>::operator [](size_t)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:             T=long double
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(92,12):
+  参见“Alignment::Array<long double>::operator []”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “Alignment::Array<long double> &Alignment::Array<long double>::operator =(Alignment::Array<long double> &&)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(97,16):
+  参见“Alignment::Array<long double>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “Alignment::Array<long double> &Alignment::Array<long double>::operator =(const Alignment::Array<long double> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(96,16):
+  参见“Alignment::Array<long double>::operator =”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “bool Alignment::Array<long double>::initialize(size_t,Alignment::AlignmentSize)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(146,14):
+  参见“Alignment::Array<long double>::initialize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “bool Alignment::Array<long double>::resize(size_t,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(153,14):
+  参见“Alignment::Array<long double>::resize”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “bool Alignment::Array<long double>::realign(Alignment::AlignmentSize,bool)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(160,14):
+  参见“Alignment::Array<long double>::realign”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “bool Alignment::Array<long double>::fill(T &)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:             T=long double
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(172,14):
+  参见“Alignment::Array<long double>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “bool Alignment::Array<long double>::fill(T)”: 没有为显式模板实例化请求提供适当的定义
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         with
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         [
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:             T=long double
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661:         ]
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(166,14):
+  参见“Alignment::Array<long double>::fill”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “bool Alignment::Array<long double>::zero(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(178,14):
+  参见“Alignment::Array<long double>::zero”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “void Alignment::Array<long double>::clear(void)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(183,14):
+  参见“Alignment::Array<long double>::clear”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “void Alignment::Array<long double>::copyFromAligned(void *,size_t)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(191,14):
+  参见“Alignment::Array<long double>::copyFromAligned”的声明
+  
+C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(212,52): warning C4661: “void Alignment::Array<long double>::swap(Alignment::Array<long double> &)”: 没有为显式模板实例化请求提供适当的定义
+  (编译源文件“/dllmain.cpp”)
+  C:\CertainFiles\Code\CPP\Alignment\Content\Alignment.h(196,14):
+  参见“Alignment::Array<long double>::swap”的声明
+  
+    正在创建库 C:\CertainFiles\Code\CPP\Project3\x64\Debug\Alignment.lib 和对象 C:\CertainFiles\Code\CPP\Project3\x64\Debug\Alignment.exp
+  Alignment.vcxproj -> C:\CertainFiles\Code\CPP\Project3\x64\Debug\Alignment.dll
